@@ -1,0 +1,78 @@
+.Navbar-style{
+	font-family: 'Raleway', sans-serif;
+	}
+
+.text1{
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 30px;
+	}
+
+.text3{
+	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	}
+.text4{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 45px;
+	text-align: center;
+	}
+.text{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px
+}
+
+.text2{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px
+}
+.carousel-inner{ 
+	width:100%; 
+	max-height: 350px !important; 
+	display: block;
+}
+
+.padding{
+	padding-top: 45px;
+}
+
+.padding-left{
+	padding-left: 500px;
+}
+
+.padding-left1{
+	padding-left: 1050px;
+}
+
+.padding-left3{
+	padding-left: 500px;
+}
+
+.back{
+background-color: #66ccff
+}
+.img{
+	width:300px; 
+	max-height
+}
+
+.back1{
+background-color: #000000
+}
+
+.back2{
+background-color: #c28fe6
+}
+.padding-left2{
+	padding-left: 125px;
+}
+
+.text-color{
+	color:#CC99FF
+
+}
+
+.img2{
+	width:500px; 
+	max-height
+}
